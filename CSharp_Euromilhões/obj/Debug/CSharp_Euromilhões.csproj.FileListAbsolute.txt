@@ -1,0 +1,7 @@
+C:\Users\anton\source\repos\CSharp_Euromilhões\CSharp_Euromilhões\obj\Debug\CSharp_Euromilhões.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\CSharp_Euromilhões\CSharp_Euromilhões\obj\Debug\CSharp_Euromilhões.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\CSharp_Euromilhões\CSharp_Euromilhões\bin\Debug\CSharp_Euromilhões.exe.config
+C:\Users\anton\source\repos\CSharp_Euromilhões\CSharp_Euromilhões\bin\Debug\CSharp_Euromilhões.exe
+C:\Users\anton\source\repos\CSharp_Euromilhões\CSharp_Euromilhões\bin\Debug\CSharp_Euromilhões.pdb
+C:\Users\anton\source\repos\CSharp_Euromilhões\CSharp_Euromilhões\obj\Debug\CSharp_Euromilhões.exe
+C:\Users\anton\source\repos\CSharp_Euromilhões\CSharp_Euromilhões\obj\Debug\CSharp_Euromilhões.pdb
